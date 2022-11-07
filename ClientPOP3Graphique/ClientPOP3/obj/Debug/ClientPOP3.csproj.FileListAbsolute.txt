@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe.config
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.pdb
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.AssemblyReference.cache
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.SuggestedBindingRedirects.cache
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.ClientPOP3.resources
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.Properties.Resources.resources
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.GenerateResource.cache
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.CoreCompileInputs.cache
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.exe
+Z:\ProjetSystemeReseau\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.pdb
+=======
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe.config
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.pdb
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.AssemblyReference.cache
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.SuggestedBindingRedirects.cache
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.ClientPOP3.resources
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.Properties.Resources.resources
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.GenerateResource.cache
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.CoreCompileInputs.cache
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.exe
+\\iut.bx1\Etudiants\Home\gahite\Documents\Réseaux\POP3\projet_service_reseaux_pop3\ClientPOP3Graphique\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.pdb
+>>>>>>> 08edc2a744c222d46cf17d66a084ab1eabd86b00
